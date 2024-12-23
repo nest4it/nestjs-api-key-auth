@@ -44,7 +44,7 @@
     "@types/node": "^22.0.0",
     "semantic-release": "^21.0.7",
     "ts-toolbelt": "^9.6.0",
-    "tsx": "^3.12.8",
+    "tsx": "^4.0.0",
     "typescript": "^5.1.6"
   },
   "dependencies": {
