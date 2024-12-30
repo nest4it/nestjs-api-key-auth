@@ -11,7 +11,7 @@
     "access": "public"
   },
   "repository": {
-    "url": "https://github.com/nest4it/api-key"
+    "url": "https://github.com/nest4it/nestjs-api-key-auth"
   },
   "files": [
     "./dist"
@@ -28,9 +28,9 @@
     "n4it",
     "passport"
   ],
-  "author": "Robert-Jan Kuyper <info@n4it.nl> (https://n4it.nl)",
+  "author": "Robert-Jan Kuyper <hello@n4it.nl> (https://n4it.nl)",
   "bugs": {
-    "url": "https://github.com/nest4it/api-key/issues",
+    "url": "https://github.com/nest4it/nestjs-api-key-auth/issues",
     "email": "info@n4it.nl"
   },
   "license": "GPL-3.0",
